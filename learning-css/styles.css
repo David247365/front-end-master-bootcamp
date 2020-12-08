@@ -24,3 +24,23 @@ blockquote {
 cite {
     font-size: 1.5rem;
 }
+
+.bigbold {
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: brown;
+}
+
+a:visited {
+    color: rgb(8, 116, 8);
+    font-weight: bold;
+    font-size: 2rem;
+}
