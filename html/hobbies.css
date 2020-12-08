@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-size: 3rem;
+    color: rgb(255, 97, 124);
+}
+
+video {
+    margin: 0 auto;
+}
+
+.title {
+    padding-top: 30px;
+}
+
+audio {
+    margin-bottom: 20px;
+}
