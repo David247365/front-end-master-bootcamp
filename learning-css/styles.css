@@ -44,3 +44,32 @@ a:visited {
     font-weight: bold;
     font-size: 2rem;
 }
+
+nav {
+    /* border: 1px solid black; */
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav ul li {
+    border: 1px solid red;
+    background-color: lightgreen;
+    width: 10rem;
+    font-size: 1.5rem;
+    text-align: center;
+    margin-bottom: 1rem;
+    display: inline-block;
+}
+
+nav a {
+    display: block;
+    padding: 1rem;
+}
+
+nav a:hover {
+    background-color: white;
+}
