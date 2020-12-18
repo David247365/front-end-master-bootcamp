@@ -79,3 +79,18 @@ nav a:hover {
     margin: 0 20px 20px 0;
     border: none;
 }
+
+article {
+    width: 25rem;
+    margin: 0 auto;
+}
+
+.floatright {
+    float: right;
+}
+
+article:after {
+    content: "";
+    display: table;
+    clear: both;
+}
