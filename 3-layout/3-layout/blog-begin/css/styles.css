@@ -31,3 +31,44 @@ footer {
     text-align: center;
     font-size: 0.8rem;
 }
+
+/* Exercise */
+
+/* Header Section */
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.leftheader {
+    margin-right: 20px;
+}
+
+.rightheader h1 {
+    color: #DA0090;
+    font-size: 2.8rem;
+    margin-bottom: 0;
+    padding: 0;
+}
+
+.rightheader p {
+    margin-top: -7px;
+}
+
+/* Nav Section */
+
+nav ul {
+    display: flex;
+    justify-content: center;
+    border-top: 2px solid #DA0090;
+    border-bottom: 2px solid #DA0090;
+    list-style-type: none;
+}
+
+nav ul li {
+    margin: 15px 17px;
+}
+
+
