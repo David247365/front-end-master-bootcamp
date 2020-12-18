@@ -71,4 +71,25 @@ nav ul li {
     margin: 15px 17px;
 }
 
+/* Section */
+
+section article {
+    display: flex;
+    flex-direction: row;
+    margin: 2rem 0;
+}
+
+section article img {
+    float: left;
+    border-radius: 20px;
+}
+
+.articleinfo {
+    margin-left: 20px;
+}
+
+/* Footer */
+
+
+
 
